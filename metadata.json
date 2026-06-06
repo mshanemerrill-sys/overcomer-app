@@ -1,0 +1,6 @@
+{
+  "name": "OverComer",
+  "description": "An AI-powered theological companion app applying CBT/DBT techniques for overcoming addiction and mental health challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
